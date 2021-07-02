@@ -37,18 +37,7 @@ nav {
     text-align: right;
 }
 
-#box-name {
-    background-color: #3A4042;
-    text-align: left;
-    display: inline-block;
-    box-shadow: 5px 5px 0px #000;
-    padding-top: 20px;
-    padding-bottom: 24px;
-    padding-left: 33px;
-    padding-right: 34px;
-    margin-top: 99px;
-    margin-left: 84px;
-}
+
 
 #button-name {
     display: inline-block;
